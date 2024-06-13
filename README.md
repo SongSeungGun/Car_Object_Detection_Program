@@ -21,7 +21,7 @@
 <br>
 </p>
 
-4.호출된 이미지 파일이 입력 창에 전달 -> 입릭창에 전달된 이미지 파일 안에 있는 객체를 감지
+4. 호출된 이미지 파일이 입력 창에 전달 -> 입릭창에 전달된 이미지 파일 안에 있는 객체를 감지
 <p align="center">
 <img src="./myModels/cam_img_4.png" alt="Image 4" width="700" height="400">
 <br>
