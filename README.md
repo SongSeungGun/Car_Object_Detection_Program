@@ -1,6 +1,6 @@
 # Car_Object_Detection_Program
 
-<a href="https://github.com/SongSeungGun/Car_Object_Detection_Program/blob/main/cam.py"> 실행파일 </a>
+<p align="center">  <a href="https://github.com/SongSeungGun/Car_Object_Detection_Program/blob/main/cam.py"> 실행파일 </a>  </p>
 1. 웹캠을 열어서 실시간으로 객체를 탐지
 <p align="center">
 <img src="./myModels/cam_img_1.png" alt="Image 1" width="700" height="400">
