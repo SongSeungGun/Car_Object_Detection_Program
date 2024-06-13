@@ -1,6 +1,11 @@
 # Car_Object_Detection_Program
 
 1. 웹캠을 열어서 실시간으로 객체를 탐지
+<p align="center">
+<img src="./myModels/cam_img_1.png" alt="Image 1" width="700" height="400">
+<br>
+</p>
+
 2. 객체를 감지한 클래스를 출력 결과창에 감지된 객체와 객체 클래스명 출력
 3. 좌측 하단에 있는 사진파일 불러오기 클릭 시 -> 데스크탑에 저장된 이미지 파일 호출
 4. 호출된 이미지 파일이 입력 창에 전달 -> 입릭창에 전달된 이미지 파일 안에 있는 객체를 감지
